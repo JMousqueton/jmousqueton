@@ -14,6 +14,9 @@ git config --global user.company "Computacenter"
 
 # Position 
 git config --global user.postition "CTO" 
+
+# Localisation 
+git config --global user.localisation "Paris, France" 
 ```
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JMousqueton&count_private=true&show_icons=true&theme=dark" />
