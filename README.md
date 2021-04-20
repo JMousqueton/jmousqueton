@@ -13,7 +13,7 @@ git config --global user.email "julien_AT_mousqueton.me"
 git config --global user.company "Computacenter"
 
 # Position 
-git config --global user.postition "CTO" 
+git config --global user.position "CTO" 
 
 # Localisation 
 git config --global user.localisation "Paris, France" 
