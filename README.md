@@ -7,7 +7,7 @@
 git config --global user.name "Julien Mousqueton"
 
 # Identity Email
-git config --global user.email "julien_AT_mousqueton.me"
+git config --global user.email "julien_AT_mousqueton.io"
 
 # Company
 git config --global user.company "Computacenter"
