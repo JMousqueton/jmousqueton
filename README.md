@@ -10,10 +10,10 @@ git config --global user.name "Julien Mousqueton"
 git config --global user.email "julien_AT_mousqueton.io"
 
 # Company
-git config --global user.company "Computacenter"
+git config --global user.company "Cohesity"
 
 # Position 
-git config --global user.position "CTO" 
+git config --global user.position "CISO EMEA" 
 
 # Localisation 
 git config --global user.localisation "Paris, France" 
